@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace seminar2_paw {
     internal class Program {
         static void Main(string[] args) {
+
+            //pwp
         }
     }
 }
