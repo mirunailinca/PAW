@@ -1,0 +1,8 @@
+C:\Users\Miruna Faraon\Downloads\Desktop\facultate frate\an 2\sem2\paw\curs 4 paw\bin\Debug\curs 4 paw.exe.config
+C:\Users\Miruna Faraon\Downloads\Desktop\facultate frate\an 2\sem2\paw\curs 4 paw\bin\Debug\curs 4 paw.exe
+C:\Users\Miruna Faraon\Downloads\Desktop\facultate frate\an 2\sem2\paw\curs 4 paw\bin\Debug\curs 4 paw.pdb
+C:\Users\Miruna Faraon\Downloads\Desktop\facultate frate\an 2\sem2\paw\curs 4 paw\obj\Debug\curs 4 paw.csproj.AssemblyReference.cache
+C:\Users\Miruna Faraon\Downloads\Desktop\facultate frate\an 2\sem2\paw\curs 4 paw\obj\Debug\curs 4 paw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miruna Faraon\Downloads\Desktop\facultate frate\an 2\sem2\paw\curs 4 paw\obj\Debug\curs 4 paw.csproj.CoreCompileInputs.cache
+C:\Users\Miruna Faraon\Downloads\Desktop\facultate frate\an 2\sem2\paw\curs 4 paw\obj\Debug\curs 4 paw.exe
+C:\Users\Miruna Faraon\Downloads\Desktop\facultate frate\an 2\sem2\paw\curs 4 paw\obj\Debug\curs 4 paw.pdb
