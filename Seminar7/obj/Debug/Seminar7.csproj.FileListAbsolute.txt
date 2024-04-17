@@ -1,0 +1,13 @@
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\bin\Debug\Seminar7.exe.config
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\bin\Debug\Seminar7.exe
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\bin\Debug\Seminar7.pdb
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.csproj.AssemblyReference.cache
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.Form1.resources
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.Form2.resources
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.Properties.Resources.resources
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.csproj.GenerateResource.cache
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.csproj.CoreCompileInputs.cache
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.exe
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.pdb
+C:\Users\Miruna Faraon\Downloads\Desktop\PAW-main\Seminar7\obj\Debug\Seminar7.Form3.resources
